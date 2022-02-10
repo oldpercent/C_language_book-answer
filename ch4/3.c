@@ -1,5 +1,5 @@
 # include <stdio.h>
 int main() {
-	printf( "I love C langusge best." );
+	printf( "\"Hello,C\"\n\"Hello, World.\"" );
 	return 0;
 }
